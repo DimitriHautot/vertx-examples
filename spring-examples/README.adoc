@@ -11,3 +11,9 @@ application.
 
 The link:spring-example/README.adoc[Vert.x Spring Example] shows how you can access Spring beans as services in a vert.x
 application
+
+=== Spring example bootified
+
+This is the boot-ified version of the _Spring example_ sample.
+
+Next step: pull some configuration from a Spring Cloud Config server.
